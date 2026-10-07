@@ -1,0 +1,58 @@
+{
+  "id": "vulnerables",
+  "orden": 8,
+  "icono": "🚶",
+  "titulo": "Peatones, ciclistas y motociclistas",
+  "resumen": "Derechos y deberes de los usuarios más vulnerables y cómo convivir con ellos en la vía.",
+  "secciones": [
+    {
+      "titulo": "Peatones",
+      "puntos": [
+        "Deben cruzar por los pasos peatonales, esquinas o puentes peatonales, y respetar el semáforo peatonal.",
+        "Caminan por las aceras; si no hay, lo hacen por el borde de la vía, de frente al tránsito que se aproxima.",
+        "Tienen preferencia en los pasos peatonales y en las esquinas cuando el vehículo gira. El conductor debe reducir la velocidad y detenerse.",
+        "Se debe otorgar prioridad y máxima precaución a niños, adultos mayores, personas con discapacidad y personas con movilidad reducida.",
+        "Cuando un vehículo está detenido para ceder el paso a un peatón, el resto de conductores no debe rebasarlo.",
+        "Alrededor de escuelas y centros de salud, reduce la velocidad y sé más cuidadoso."
+      ]
+    },
+    {
+      "titulo": "Motociclistas",
+      "puntos": [
+        "El uso del casco protector, bien abrochado, es obligatorio para el conductor y el acompañante.",
+        "El casco debe ser adecuado para motocicleta y estar en buen estado.",
+        "Deben circular con las luces encendidas y respetar los carriles; no deben transitar por las aceras.",
+        "La motocicleta requiere licencia de la categoría correspondiente.",
+        "Ropa clara, chalecos reflectivos, guantes y calzado cerrado mejoran la protección y la visibilidad.",
+        "No se debe llevar más pasajeros que los permitidos ni objetos que dificulten el control.",
+        "Los conductores de autos deben mirar dos veces y respetar la distancia: las motos son difíciles de ver y suelen estar en el punto ciego."
+      ]
+    },
+    {
+      "titulo": "Ciclistas",
+      "puntos": [
+        "Tienen los mismos derechos y deberes de circulación que otros conductores en cuanto a señales y semáforos.",
+        "Deben usar luces y reflectores de noche, timbre y, preferentemente, casco.",
+        "Al adelantar a un ciclista, deja un espacio lateral amplio y reduce la velocidad.",
+        "No abras la puerta del auto sin mirar antes por el espejo: puede venir un ciclista o un motociclista."
+      ]
+    },
+    {
+      "titulo": "Transporte público y escolar",
+      "puntos": [
+        "Los buses deben detenerse solo en las paradas autorizadas para subir y bajar pasajeros.",
+        "Los pasajeros no deben viajar colgados de las puertas ni en lugares no habilitados.",
+        "Al aproximarte a un bus detenido, reduce la velocidad porque los pasajeros pueden cruzar la calle.",
+        "El transporte escolar requiere condiciones especiales de seguridad y conductores aptos."
+      ]
+    },
+    {
+      "titulo": "Personas con discapacidad",
+      "puntos": [
+        "Se debe respetar el paso peatonal y las rampas de acceso: nunca bloquearlas con un vehículo.",
+        "Los espacios de estacionamiento reservados son exclusivos para vehículos que lo requieran y cuenten con la identificación correspondiente.",
+        "Ante una persona con bastón blanco o guiada por un perro guía, detén el vehículo y espera a que cruce con seguridad."
+      ]
+    }
+  ]
+}

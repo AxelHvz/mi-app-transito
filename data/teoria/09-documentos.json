@@ -1,0 +1,53 @@
+{
+  "id": "documentos",
+  "orden": 9,
+  "icono": "🪪",
+  "titulo": "Licencia, documentos y vehículo",
+  "resumen": "Categorías de licencia, documentos obligatorios y requisitos que debe cumplir el vehículo.",
+  "secciones": [
+    {
+      "titulo": "La licencia de conducir",
+      "texto": [
+        "La licencia es el documento que autoriza a una persona a conducir un tipo de vehículo. Se obtiene después de cumplir requisitos de edad, aprobar exámenes médico, teórico y práctico, y pagar los derechos correspondientes.",
+        "Existen distintas categorías, por ejemplo juvenil, particular, motociclista, liviana, pesada y pesada-T. Cada una habilita para determinados vehículos: nadie puede manejar un vehículo de una categoría para la que no está autorizado."
+      ],
+      "puntos": [
+        "La licencia debe portarse siempre que se conduzca y debe estar vigente.",
+        "Hay que renovarla antes de que venza; conducir con la licencia vencida es una infracción.",
+        "Los datos de la licencia deben mantenerse actualizados (domicilio, tipo de sangre, etc.).",
+        "En caso de pérdida o robo, debe reportarse y tramitarse la reposición.",
+        "La licencia puede ser suspendida o cancelada por infracciones graves o reincidencia."
+      ],
+      "tip": "Los requisitos de edad, costos y vigencia de cada categoría cambian; consúltalos en el VMT antes de iniciar tu trámite."
+    },
+    {
+      "titulo": "Documentos que debe portar el conductor",
+      "puntos": [
+        "Licencia de conducir vigente de la categoría correspondiente.",
+        "Tarjeta de circulación del vehículo, vigente.",
+        "Documento de identidad (DUI o pasaporte) para identificarse ante la autoridad.",
+        "Cualquier otro documento que exija la ley según el tipo de vehículo o servicio (por ejemplo, permisos para transporte de carga o de pasajeros)."
+      ]
+    },
+    {
+      "titulo": "El vehículo",
+      "puntos": [
+        "Debe estar matriculado, con sus placas visibles, legibles y sin alteraciones, en la parte delantera y trasera cuando corresponda.",
+        "La tarjeta de circulación debe estar vigente, y la revisión técnico-mecánica al día cuando aplique.",
+        "Debe cumplir con el equipo obligatorio: luces, frenos, llantas, espejos, cinturones, limpiaparabrisas, bocina, extintor y triángulos reflectivos.",
+        "No se permite circular con vidrios oscurecidos que impidan la visibilidad, con escapes modificados que produzcan ruido excesivo, ni con luces no autorizadas.",
+        "Todo cambio de propietario debe registrarse, y todo vehículo debe tener un propietario identificado."
+      ]
+    },
+    {
+      "titulo": "Equipo de emergencia recomendado",
+      "puntos": [
+        "Dos triángulos reflectivos.",
+        "Extintor de incendios cargado.",
+        "Llanta de repuesto en buen estado, gato y llave de ruedas.",
+        "Botiquín de primeros auxilios y linterna.",
+        "Cables para pasar corriente y cinta reflectiva o chaleco de seguridad."
+      ]
+    }
+  ]
+}

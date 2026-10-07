@@ -1,0 +1,61 @@
+{
+  "id": "defensiva",
+  "orden": 13,
+  "icono": "🧠",
+  "titulo": "Conducción defensiva y condiciones adversas",
+  "resumen": "Anticipar riesgos y adaptar tu manejo a la lluvia, la noche, la niebla y las vías difíciles.",
+  "secciones": [
+    {
+      "titulo": "Principios de la conducción defensiva",
+      "puntos": [
+        "Observar: mira lejos y a los lados, revisa los espejos con frecuencia y anticípate a los errores de los demás.",
+        "Predecir: imagina qué puede hacer cada usuario de la vía y ten una salida preparada.",
+        "Decidir a tiempo: reduce la velocidad, cede el paso o cambia de carril con suficiente anticipación.",
+        "Ejecutar con suavidad: acelera, frena y gira de forma progresiva.",
+        "Mantén siempre un «colchón de seguridad» de espacio alrededor de tu vehículo.",
+        "Controla tus emociones: el enojo, la prisa y la competencia son enemigos del conductor."
+      ]
+    },
+    {
+      "titulo": "Lluvia y pavimento mojado",
+      "puntos": [
+        "Enciende las luces bajas y reduce la velocidad.",
+        "Duplica la distancia de seguridad: el frenado se alarga bastante.",
+        "Las primeras lluvias después de un período seco son especialmente peligrosas porque el aceite y el polvo hacen resbaloso el pavimento.",
+        "Evita frenadas y giros bruscos; suelta el acelerador de forma gradual si pierdes agarre.",
+        "No cruces zonas inundadas: puedes perder el control, dañar el motor o ser arrastrado por la corriente.",
+        "Si el parabrisas se empaña, activa el desempañador y la ventilación."
+      ]
+    },
+    {
+      "titulo": "Noche y niebla",
+      "puntos": [
+        "De noche la visibilidad y la percepción de distancias disminuyen; reduce la velocidad para poder detenerte dentro de lo que alcanzas a ver.",
+        "Mantén limpios los vidrios y los faros; ajusta las luces si es necesario.",
+        "No te deslumbres: si viene un vehículo con luces altas, mira hacia el borde derecho de la vía.",
+        "Con niebla, usa luces bajas y de niebla, reduce la velocidad, aumenta la distancia y utiliza las marcas del pavimento como guía.",
+        "Si la niebla es muy densa, detente en un lugar seguro, fuera de la calzada."
+      ]
+    },
+    {
+      "titulo": "Carreteras de montaña y curvas",
+      "puntos": [
+        "Circula a velocidad moderada y por tu carril; nunca invadas el carril contrario en una curva.",
+        "Baja una pendiente con la misma marcha con la que la subirías.",
+        "Ten cuidado con derrumbes, piedras, neblina y animales en la vía.",
+        "En curvas cerradas, cede el paso al vehículo que sube si la vía es muy angosta y no se pueden cruzar.",
+        "Si vas detrás de un vehículo pesado, mantén la distancia para ver con más claridad."
+      ]
+    },
+    {
+      "titulo": "Otras situaciones",
+      "puntos": [
+        "Sismos: si ocurre uno mientras conduces, reduce la velocidad, detente en un lugar despejado lejos de puentes, postes y edificios, y espera a que pase.",
+        "Puentes y pasos a desnivel: evita detenerte sobre ellos.",
+        "Zonas escolares o con muchos peatones: conduce despacio y con el pie listo sobre el freno.",
+        "Autopistas: evita frenadas bruscas, no te detengas en la calzada, y usa los hombros solo en emergencias.",
+        "Conducción ecológica: mantén una velocidad constante, evita aceleraciones y frenadas bruscas y da mantenimiento al vehículo para ahorrar combustible y reducir emisiones."
+      ]
+    }
+  ]
+}

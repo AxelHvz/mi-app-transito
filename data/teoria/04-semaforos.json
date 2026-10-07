@@ -1,0 +1,57 @@
+{
+  "id": "semaforos",
+  "orden": 4,
+  "icono": "🚦",
+  "titulo": "Semáforos y agentes de tránsito",
+  "resumen": "Significado de cada luz, semáforos intermitentes y peatonales, y las señales manuales del agente.",
+  "secciones": [
+    {
+      "titulo": "Luces del semáforo",
+      "tabla": {
+        "cab": ["Luz", "Qué debe hacer el conductor"],
+        "filas": [
+          ["Roja fija", "Detenerse antes de la línea de parada o del cruce peatonal y esperar la luz verde."],
+          ["Amarilla fija", "Es una advertencia de cambio a rojo: prepararse para detenerse; si ya no es posible frenar con seguridad, terminar de cruzar con precaución."],
+          ["Verde fija", "Avanzar, cediendo el paso a los peatones y a los vehículos que ya estén en la intersección."],
+          ["Flecha verde", "Solo se puede avanzar en la dirección de la flecha."],
+          ["Flecha roja", "Prohibido avanzar en esa dirección."],
+          ["Amarilla intermitente", "Precaución: reducir la velocidad y cruzar solo si no hay peligro."],
+          ["Roja intermitente", "Se trata como una señal de PARE: detenerse por completo y continuar cuando sea seguro."],
+          ["Semáforo apagado o dañado", "Se trata como una intersección sin control: extremar la precaución y respetar las reglas de preferencia."]
+        ]
+      },
+      "tip": "El giro a la derecha con luz roja solo se permite si una señal lo autoriza expresamente."
+    },
+    {
+      "titulo": "Semáforos peatonales y especiales",
+      "puntos": [
+        "Figura de peatón caminando (o luz verde): los peatones pueden cruzar.",
+        "Figura de mano o peatón detenido (o luz roja): los peatones no deben iniciar el cruce.",
+        "Luz intermitente del peatón: queda poco tiempo; quien ya cruzó debe terminar y nadie debe comenzar.",
+        "Semáforos para ciclistas, transporte público o carriles reversibles tienen indicaciones propias que se deben respetar.",
+        "En algunos cruces hay contador de segundos para anticipar el cambio."
+      ]
+    },
+    {
+      "titulo": "Reglas prácticas en intersecciones semaforizadas",
+      "puntos": [
+        "No entres a la intersección si no hay espacio libre para salir; bloquear el cruce es una falta y genera congestión.",
+        "Detente antes de la línea de parada y sin invadir el paso peatonal.",
+        "Al arrancar con luz verde, verifica que no vengan vehículos que aún están cruzando.",
+        "Nunca aceleres para «ganar» la luz amarilla.",
+        "Los vehículos de emergencia con sirena y luces tienen paso: mantente a la derecha y detente si es necesario, incluso con luz verde."
+      ]
+    },
+    {
+      "titulo": "Señales de los agentes de tránsito",
+      "puntos": [
+        "Brazo levantado de frente o de espalda al conductor: detenerse.",
+        "Brazos extendidos de lado hacia el vehículo: detenerse; hacia los costados del agente, se puede avanzar.",
+        "Movimiento del brazo o de la mano en círculo o hacia atrás: indica que se avance o gire en esa dirección.",
+        "Silbato con un pito largo: atención; con pitos cortos y repetidos: llamado urgente para detenerse.",
+        "Ante una orden de un agente, hay que obedecer aunque contradiga el semáforo o la señal.",
+        "Si un agente te ordena detenerte, hazlo en un lugar seguro, con las manos visibles y los documentos a mano."
+      ]
+    }
+  ]
+}

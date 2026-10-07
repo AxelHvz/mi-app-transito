@@ -1,0 +1,72 @@
+{
+  "id": "senales",
+  "orden": 2,
+  "icono": "🛑",
+  "titulo": "Señales verticales de tránsito",
+  "resumen": "Formas, colores y significado de las señales preventivas, reglamentarias e informativas.",
+  "secciones": [
+    {
+      "titulo": "¿Cómo reconocer una señal por su forma y color?",
+      "texto": [
+        "La forma y el color de una señal te dicen su tipo aun antes de leer el símbolo. Memoriza esta tabla: es la base de muchas preguntas del examen."
+      ],
+      "tabla": {
+        "cab": ["Tipo", "Forma", "Colores típicos", "Función"],
+        "filas": [
+          ["Preventivas", "Rombo", "Fondo amarillo, símbolo negro", "Advierten un peligro o cambio en la vía"],
+          ["Reglamentarias de prohibición o restricción", "Circular", "Fondo blanco, borde y diagonal rojos", "Indican lo que está prohibido o limitado"],
+          ["Reglamentarias de obligación", "Circular", "Fondo azul, símbolo blanco", "Indican lo que se debe hacer"],
+          ["PARE", "Octágono", "Fondo rojo, letras blancas", "Detención total obligatoria"],
+          ["CEDA EL PASO", "Triángulo invertido", "Fondo blanco, borde rojo", "Ceder la preferencia a otros vehículos"],
+          ["Informativas de destino y guía", "Rectangular", "Fondo verde, letras blancas", "Orientan sobre destinos, distancias y rutas"],
+          ["Informativas de servicios", "Rectangular", "Fondo azul, símbolo blanco", "Indican hospital, gasolinera, teléfono, etc."],
+          ["Turísticas y culturales", "Rectangular", "Fondo café o marrón", "Indican sitios de interés"],
+          ["Trabajos en la vía", "Rombo o rectangular", "Fondo naranja", "Advierten obras y desvíos"],
+          ["Zona escolar", "Rombo o pentágono", "Fondo amarillo verdoso fluorescente", "Advierten presencia de escolares"]
+        ]
+      },
+      "tip": "Regla rápida: rombo amarillo = ¡cuidado!; círculo con rojo = prohibido; círculo azul = obligatorio; octágono = PARE; rectángulo = información."
+    },
+    {
+      "titulo": "Señales preventivas: ejemplos frecuentes",
+      "puntos": [
+        "Curva pronunciada, curva y contracurva, camino sinuoso: reducir velocidad y mantenerse en el carril.",
+        "Cruce de peatones o de escolares: prepararse para detenerse.",
+        "Intersección en cruz, en T o en Y: precaución ante vehículos que se incorporan.",
+        "Pendiente peligrosa (bajada o subida): usar una marcha corta y evitar frenar en exceso.",
+        "Estrechamiento de calzada: ceder el paso según lo indicado y evitar adelantar.",
+        "Pavimento resbaloso, badenes o topes, zona de derrumbes, paso de ganado o de animales.",
+        "Cruce de ferrocarril: reducir, mirar y escuchar; extremar el cuidado."
+      ]
+    },
+    {
+      "titulo": "Señales reglamentarias: ejemplos frecuentes",
+      "puntos": [
+        "PARE: detención completa antes de la línea de parada; ceder el paso a los vehículos y peatones que tienen preferencia.",
+        "CEDA EL PASO: reducir y detenerse solo si es necesario; no se exige parada total si la vía está libre.",
+        "Velocidad máxima: el número indica los kilómetros por hora que no se pueden superar en ese tramo.",
+        "Prohibido adelantar, prohibido girar a la izquierda, prohibido el retorno, prohibido estacionar, prohibido el paso.",
+        "Contravía o sentido prohibido: no se puede ingresar a esa calle desde ese punto.",
+        "Sentido único, giro obligatorio, circulación por la derecha o por la izquierda: son señales de obligación."
+      ]
+    },
+    {
+      "titulo": "Señales informativas",
+      "puntos": [
+        "Verdes: indican destinos, distancias en kilómetros, nombres de calles, salidas y rutas.",
+        "Azules: servicios como hospital, gasolinera, taller, teléfono, alimentación o alojamiento.",
+        "Café: lugares turísticos, parques y sitios culturales.",
+        "Los pórticos y tableros sobre la vía anticipan salidas y cambios de carril con tiempo suficiente."
+      ]
+    },
+    {
+      "titulo": "Señales temporales y de obras",
+      "puntos": [
+        "Son de color naranja y avisan de trabajos, desvíos y estrechamientos.",
+        "Se acompañan de conos, barreras, cintas y a veces de un bandereo humano.",
+        "Al verlas, reduce la velocidad, mantén la distancia y sigue las instrucciones del personal de la obra.",
+        "Una señal temporal prevalece sobre la señal permanente que esté en el mismo lugar."
+      ]
+    }
+  ]
+}

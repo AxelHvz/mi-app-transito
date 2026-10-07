@@ -1,0 +1,61 @@
+{
+  "id": "seguridad",
+  "orden": 7,
+  "icono": "🛡️",
+  "titulo": "Seguridad vial y estado del conductor",
+  "resumen": "Cinturón, sillas infantiles, alcohol, drogas, fatiga, celular y otras distracciones.",
+  "secciones": [
+    {
+      "titulo": "Seguridad pasiva",
+      "puntos": [
+        "El cinturón de seguridad es obligatorio para el conductor y todos los pasajeros, en el asiento delantero y en el trasero.",
+        "Debe usarse bien ajustado: la banda diagonal cruza el pecho y la banda de la cintura va sobre las caderas, nunca sobre el abdomen.",
+        "Los niños pequeños deben viajar en el asiento trasero con sistema de retención infantil adecuado a su edad, peso y estatura.",
+        "Nunca lleves a un bebé en brazos ni a un niño sobre las piernas: en un choque, el adulto no puede sostenerlo.",
+        "El reposacabezas debe ir a la altura de la cabeza para evitar lesiones del cuello (latigazo).",
+        "Las bolsas de aire (airbag) complementan el cinturón; no lo reemplazan."
+      ]
+    },
+    {
+      "titulo": "Alcohol y drogas",
+      "puntos": [
+        "Está prohibido conducir bajo la influencia del alcohol, de drogas ilícitas o de medicamentos que disminuyan la capacidad de conducir.",
+        "El alcohol reduce la atención y los reflejos, genera falsa confianza, altera la visión y aumenta el tiempo de reacción.",
+        "Ningún truco (café, ducha fría, comida) elimina el alcohol de la sangre: solo el tiempo lo hace.",
+        "Si vas a beber, no conduzcas: designa a un conductor sobrio, usa transporte público o un taxi.",
+        "La autoridad puede realizar pruebas de alcoholemia; negarse a hacerlas tiene consecuencias legales.",
+        "Muchos medicamentos producen somnolencia: lee el prospecto o consulta al médico antes de manejar.",
+        "Conducir bajo los efectos del alcohol se considera una de las infracciones más graves y puede terminar en sanciones económicas, suspensión de la licencia y, si hay lesiones o muertes, responsabilidad penal."
+      ],
+      "tip": "El límite de alcohol permitido está definido por la ley y ha sido reformado; el consejo del examen y de la vida es «si tomas, no manejes»."
+    },
+    {
+      "titulo": "Fatiga y sueño",
+      "puntos": [
+        "El cansancio disminuye la atención, aumenta el tiempo de reacción y provoca microsueños.",
+        "En viajes largos, descansa por lo menos cada dos horas aproximadamente y evita manejar de madrugada si no has dormido.",
+        "Señales de sueño: bostezos, párpados pesados, dificultad para mantener el carril, olvido de los últimos kilómetros.",
+        "Si sientes sueño, detente en un lugar seguro y descansa. No hay estimulante que sustituya al sueño."
+      ]
+    },
+    {
+      "titulo": "Distracciones",
+      "puntos": [
+        "Está prohibido manejar mientras se usa el teléfono celular sujetándolo con la mano, escribiendo o leyendo mensajes.",
+        "Una distracción de dos segundos a velocidad de carretera equivale a recorrer decenas de metros «a ciegas».",
+        "Otras distracciones: comer, maquillarse, buscar objetos, ajustar el GPS, discutir o volverse hacia los pasajeros.",
+        "Configura la ruta, la música y el espejo antes de arrancar.",
+        "Las emociones intensas (enojo, prisa) también afectan tu conducción."
+      ]
+    },
+    {
+      "titulo": "Postura y visibilidad",
+      "puntos": [
+        "Ajusta el asiento para alcanzar cómodamente los pedales con las rodillas ligeramente flexionadas.",
+        "Sostén el volante con ambas manos, en posiciones equivalentes a las 9 y las 3 del reloj.",
+        "Ajusta los espejos retrovisores antes de arrancar, y revisa los puntos ciegos girando la cabeza.",
+        "Mantén los vidrios, espejos y luces limpios; no coloques objetos que bloqueen la visión."
+      ]
+    }
+  ]
+}

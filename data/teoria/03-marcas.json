@@ -1,0 +1,54 @@
+{
+  "id": "marcas",
+  "orden": 3,
+  "icono": "〰️",
+  "titulo": "Marcas en el pavimento",
+  "resumen": "Líneas, flechas y símbolos pintados en la calle, y lo que permiten o prohíben.",
+  "secciones": [
+    {
+      "titulo": "Color de las líneas",
+      "puntos": [
+        "Amarillas: separan vehículos que circulan en sentidos opuestos. También marcan restricciones en el borde de la calzada.",
+        "Blancas: separan carriles del mismo sentido, marcan los bordes de la calzada, pasos peatonales, líneas de parada y flechas.",
+        "Los símbolos de uso reservado (por ejemplo, discapacidad) y las zonas de exclusión tienen su propia demarcación."
+      ]
+    },
+    {
+      "titulo": "Tipo de línea: continua o discontinua",
+      "tabla": {
+        "cab": ["Marca", "Significado"],
+        "filas": [
+          ["Línea central amarilla discontinua", "Se puede adelantar si la vía está libre y hay visibilidad."],
+          ["Línea central amarilla continua", "Prohibido adelantar o cruzarla."],
+          ["Doble línea amarilla continua", "Prohibido adelantar en ambos sentidos."],
+          ["Línea continua junto a una discontinua", "Solo puede adelantar el conductor que tiene la línea discontinua de su lado."],
+          ["Línea blanca discontinua entre carriles", "Se permite el cambio de carril con precaución."],
+          ["Línea blanca continua entre carriles", "No se debe cambiar de carril."],
+          ["Línea de borde (blanca continua)", "Delimita el borde de la calzada; no se debe invadir el hombro salvo emergencia."]
+        ]
+      }
+    },
+    {
+      "titulo": "Otras marcas importantes",
+      "puntos": [
+        "Paso peatonal (cebra): franjas paralelas al sentido de la marcha. El peatón tiene preferencia cuando cruza.",
+        "Línea de parada: línea blanca gruesa transversal; el vehículo debe detenerse antes de ella, sin invadir el cruce peatonal.",
+        "Flechas de carril: indican la maniobra permitida desde ese carril (seguir de frente, girar, retornar).",
+        "Rayas diagonales o chevrones: zonas de exclusión; no se debe circular ni estacionar sobre ellas.",
+        "Cuadrícula amarilla en intersecciones: no se debe entrar si no hay espacio libre para salir del otro lado.",
+        "Símbolo de discapacidad: estacionamiento reservado; su uso indebido es sancionable.",
+        "Marcas en el borde de la acera o de la calzada indican zonas donde no se puede estacionar según la señalización local."
+      ]
+    },
+    {
+      "titulo": "Dispositivos complementarios",
+      "puntos": [
+        "Tachas o botones reflectivos: ayudan a ver los carriles de noche o con lluvia.",
+        "Bandas sonoras o alertadoras: producen vibración para avisar de un peligro o cambio en la vía.",
+        "Delineadores, postes y barreras: marcan bordes de puentes, curvas y obstáculos.",
+        "Topes y reductores de velocidad: obligan a moderar la marcha; se deben pasar despacio."
+      ],
+      "tip": "Si una señal vertical y una marca en el pavimento se contradicen, sigue la señal vertical y actúa con precaución."
+    }
+  ]
+}

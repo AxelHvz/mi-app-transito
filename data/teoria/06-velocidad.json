@@ -1,0 +1,63 @@
+{
+  "id": "velocidad",
+  "orden": 6,
+  "icono": "⚡",
+  "titulo": "Velocidad y distancia de frenado",
+  "resumen": "Por qué la velocidad es el factor más peligroso y cómo calcular tus distancias de detención.",
+  "secciones": [
+    {
+      "titulo": "Velocidad razonable y máxima",
+      "texto": [
+        "La ley fija velocidades máximas según el tipo de vía y la señalización; en zonas escolares, hospitales, mercados y áreas con mucha presencia peatonal los límites son menores. La velocidad máxima que indica la señal es un tope, no una meta.",
+        "Independientemente del límite, el conductor debe circular a una velocidad razonable y prudente según el tráfico, el clima, la visibilidad, el estado de la vía y del vehículo, y la presencia de peatones."
+      ],
+      "tip": "Los límites numéricos exactos para cada tipo de vía deben tomarse del manual oficial vigente y de las señales en la calle: se modifican por reformas y decretos."
+    },
+    {
+      "titulo": "¿Por qué importa tanto la velocidad?",
+      "puntos": [
+        "A mayor velocidad, menor campo visual: cuanto más rápido vas, menos ves hacia los lados.",
+        "A mayor velocidad, mayor distancia de frenado: al duplicar la velocidad, la distancia de frenado se multiplica por cuatro.",
+        "A mayor velocidad, mayor gravedad del choque: la fuerza del impacto aumenta con el cuadrado de la velocidad.",
+        "El riesgo de muerte de un peatón atropellado aumenta drásticamente con cada kilómetro por hora adicional.",
+        "El exceso de velocidad es una de las principales causas de accidentes mortales."
+      ]
+    },
+    {
+      "titulo": "Distancia de detención",
+      "texto": [
+        "La distancia total para detener un vehículo es la suma de dos partes:"
+      ],
+      "tabla": {
+        "cab": ["Concepto", "Explicación"],
+        "filas": [
+          ["Tiempo de reacción", "Lo que tarda el conductor en ver el peligro y decidir frenar. En promedio es cerca de un segundo, y aumenta con cansancio, alcohol, medicinas o distracciones."],
+          ["Distancia de reacción", "Lo que recorre el vehículo durante el tiempo de reacción, sin frenar todavía."],
+          ["Distancia de frenado", "Lo que recorre desde que se pisa el freno hasta que el vehículo se detiene por completo."],
+          ["Distancia de detención", "Distancia de reacción más distancia de frenado."]
+        ]
+      }
+    },
+    {
+      "titulo": "Factores que alargan la distancia de frenado",
+      "puntos": [
+        "Velocidad alta y peso elevado del vehículo (carga).",
+        "Pavimento mojado, con lodo, arena, aceite o grava.",
+        "Llantas lisas, mal infladas o de mala calidad.",
+        "Frenos, amortiguadores o dirección en mal estado.",
+        "Bajadas o pendientes fuertes.",
+        "Conductor cansado, distraído o bajo efectos de alcohol o drogas."
+      ]
+    },
+    {
+      "titulo": "Buenas prácticas",
+      "puntos": [
+        "Reduce la velocidad antes de entrar en una curva, no dentro de ella.",
+        "En bajadas largas, usa una marcha corta para que el motor ayude a frenar y evita el freno continuo, que se sobrecalienta.",
+        "Anticipa: mira lejos, observa el tráfico adelante y evita frenadas bruscas.",
+        "Cuando llueve, reduce la velocidad y aumenta la distancia con el vehículo de adelante.",
+        "Si tu vehículo comienza a deslizarse (aquaplaning), suelta el acelerador de forma gradual, no frenes bruscamente y mantén el volante firme."
+      ]
+    }
+  ]
+}

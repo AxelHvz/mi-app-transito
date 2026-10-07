@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "categoria": "senales",
+    "pregunta": "¿Qué significa una señal de tránsito en forma de octágono con fondo rojo y la palabra PARE?",
+    "opciones": [
+      "Reducir la velocidad y continuar si no hay vehículos",
+      "Detener completamente el vehículo antes de la línea de parada y ceder el paso",
+      "Estacionarse temporalmente",
+      "Zona de alta velocidad"
+    ],
+    "correcta": 1,
+    "explicacion": "La señal de PARE obliga a detener por completo el vehículo y ceder el paso a quienes circulan por la vía preferente antes de continuar."
+  },
+  {
+    "id": 2,
+    "categoria": "senales",
+    "pregunta": "Las señales de forma triangular con fondo amarillo o naranja y borde rojo o negro son señales:",
+    "opciones": [
+      "Reglamentarias (de prohibición)",
+      "Informativas",
+      "Preventivas",
+      "De servicios turísticos"
+    ],
+    "correcta": 2,
+    "explicacion": "Las señales preventivas advierten al conductor de un peligro o cambio en la vía (curvas, cruce peatonal, pendiente, etc.)."
+  },
+  {
+    "id": 3,
+    "categoria": "senales",
+    "pregunta": "Una señal circular con borde rojo y una diagonal sobre un símbolo indica generalmente:",
+    "opciones": [
+      "Una obligación",
+      "Una prohibición",
+      "Un servicio cercano",
+      "Un peligro adelante"
+    ],
+    "correcta": 1,
+    "explicacion": "Las señales reglamentarias circulares con borde rojo y diagonal indican prohibiciones (por ejemplo, prohibido estacionar o prohibido girar)."
+  },
+  {
+    "id": 4,
+    "categoria": "semaforos",
+    "pregunta": "Al aproximarse a un semáforo con luz amarilla fija, el conductor debe:",
+    "opciones": [
+      "Acelerar para cruzar antes de que cambie a rojo",
+      "Tocar la bocina y continuar",
+      "Prepararse para detenerse, salvo que ya no pueda hacerlo con seguridad",
+      "Detenerse en medio de la intersección"
+    ],
+    "correcta": 2,
+    "explicacion": "La luz amarilla advierte que el cambio a rojo es inminente. Se debe detener la marcha si es posible hacerlo con seguridad."
+  },
+  {
+    "id": 5,
+    "categoria": "conduccion",
+    "pregunta": "¿Cuál es la regla de preferencia de paso en una intersección sin señalización ni semáforo?",
+    "opciones": [
+      "Tiene preferencia el vehículo más grande",
+      "Tiene preferencia el vehículo que llegó primero por la izquierda",
+      "Tiene preferencia el vehículo que circula por la derecha",
+      "Tiene preferencia quien pite primero"
+    ],
+    "correcta": 2,
+    "explicacion": "En intersecciones sin señalización, el conductor debe ceder el paso al vehículo que se aproxima por su derecha."
+  },
+  {
+    "id": 6,
+    "categoria": "conduccion",
+    "pregunta": "El uso del cinturón de seguridad es:",
+    "opciones": [
+      "Opcional para los acompañantes",
+      "Obligatorio para el conductor y los pasajeros",
+      "Solo obligatorio en carretera",
+      "Solo obligatorio de noche"
+    ],
+    "correcta": 1,
+    "explicacion": "El cinturón de seguridad es obligatorio para el conductor y los ocupantes del vehículo, en cualquier tipo de vía."
+  },
+  {
+    "id": 7,
+    "categoria": "conduccion",
+    "pregunta": "Está prohibido utilizar el teléfono celular con la mano mientras se conduce porque:",
+    "opciones": [
+      "Genera distracción y aumenta el riesgo de accidentes",
+      "Gasta batería del vehículo",
+      "Solo está prohibido de noche",
+      "No está prohibido"
+    ],
+    "correcta": 0,
+    "explicacion": "El uso del celular sin manos libres es una distracción de riesgo y constituye una infracción de tránsito."
+  },
+  {
+    "id": 8,
+    "categoria": "sanciones",
+    "pregunta": "En la Ley de Transporte Terrestre, Tránsito y Seguridad Vial, las infracciones (esquelas) se clasifican en:",
+    "opciones": [
+      "Menores y mayores",
+      "Leves, graves y muy graves",
+      "Administrativas y penales únicamente",
+      "Solo leves y graves"
+    ],
+    "correcta": 1,
+    "explicacion": "Las infracciones se clasifican en leves, graves y muy graves, con multas y sanciones proporcionales a cada categoría."
+  },
+  {
+    "id": 9,
+    "categoria": "sanciones",
+    "pregunta": "Conducir bajo los efectos del alcohol o de drogas es considerado:",
+    "opciones": [
+      "Una falta sin consecuencias",
+      "Una infracción muy grave que puede implicar multa, suspensión de licencia y otras sanciones",
+      "Solo una llamada de atención verbal",
+      "Permitido en cantidades pequeñas sin límite"
+    ],
+    "correcta": 1,
+    "explicacion": "Conducir bajo efectos del alcohol o drogas es una infracción muy grave y puede conllevar multa, retención o suspensión de la licencia y otras sanciones."
+  },
+  {
+    "id": 10,
+    "categoria": "documentos",
+    "pregunta": "Además de la licencia de conducir, ¿qué documento debe portar el conductor del vehículo?",
+    "opciones": [
+      "Únicamente el DUI",
+      "Tarjeta de circulación vigente",
+      "Solo el recibo de gasolina",
+      "Ninguno más"
+    ],
+    "correcta": 1,
+    "explicacion": "El conductor debe portar su licencia y la tarjeta de circulación vigente del vehículo. También conviene llevar el DUI para identificarse."
+  },
+  {
+    "id": 11,
+    "categoria": "conduccion",
+    "pregunta": "En una vía de un solo carril por sentido, ¿cuándo se permite rebasar a otro vehículo?",
+    "opciones": [
+      "En curvas, si se toca la bocina",
+      "En cruces peatonales",
+      "Cuando hay visibilidad suficiente, el carril contrario está libre y no hay línea continua",
+      "Siempre que el otro vehículo vaya lento"
+    ],
+    "correcta": 2,
+    "explicacion": "Solo se puede rebasar con visibilidad, carril contrario libre y sin línea central continua. Está prohibido en curvas, cruces y cerca de peatones."
+  },
+  {
+    "id": 12,
+    "categoria": "senales",
+    "pregunta": "Una línea central amarilla continua en la calzada indica:",
+    "opciones": [
+      "Se permite rebasar libremente",
+      "Prohibido rebasar o cruzar la línea",
+      "Zona de estacionamiento",
+      "Vía en reparación"
+    ],
+    "correcta": 1,
+    "explicacion": "La línea amarilla continua separa sentidos de circulación y prohíbe rebasar o invadirla."
+  }
+]

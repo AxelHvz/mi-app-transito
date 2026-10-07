@@ -1,0 +1,67 @@
+{
+  "id": "mecanica",
+  "orden": 12,
+  "icono": "🔧",
+  "titulo": "Mecánica y mantenimiento básico",
+  "resumen": "Revisiones previas, testigos del tablero, llantas, frenos, luces y fluidos.",
+  "secciones": [
+    {
+      "titulo": "Revisión antes de salir",
+      "puntos": [
+        "Llantas: presión correcta, sin cortes ni deformaciones, y con dibujo en buen estado.",
+        "Luces: bajas, altas, direccionales, freno, reversa y de emergencia.",
+        "Niveles: combustible, aceite del motor, líquido de frenos, refrigerante y agua del limpiaparabrisas.",
+        "Frenos: el pedal debe sentirse firme, sin recorrido excesivo.",
+        "Espejos, parabrisas y limpiaparabrisas limpios y en buen estado.",
+        "Cinturones, bocina, documentos y equipo de emergencia."
+      ]
+    },
+    {
+      "titulo": "Testigos (luces) del tablero",
+      "tabla": {
+        "cab": ["Testigo", "Qué indica"],
+        "filas": [
+          ["Aceite (lamparita de aceite)", "Presión de aceite baja: apaga el motor de inmediato en un lugar seguro."],
+          ["Temperatura del motor (termómetro)", "Sobrecalentamiento: detente y espera a que enfríe; no abras la tapa del radiador en caliente."],
+          ["Batería", "Falla del sistema de carga (alternador o batería)."],
+          ["Freno (círculo con signo de exclamación, o «BRAKE»)", "Freno de mano puesto o problema en el sistema de frenos."],
+          ["ABS", "Falla en el sistema antibloqueo; el freno normal sigue funcionando, pero sin la ayuda del ABS."],
+          ["Airbag", "Falla en el sistema de bolsas de aire."],
+          ["Motor (check engine)", "Falla detectada en el motor o las emisiones: llevar a revisión."],
+          ["Cinturón", "Algún ocupante no lo tiene abrochado."]
+        ]
+      },
+      "tip": "Una luz roja del tablero indica un problema urgente; una luz amarilla o naranja es una advertencia que debe atenderse pronto."
+    },
+    {
+      "titulo": "Llantas",
+      "puntos": [
+        "Revisa la presión con las llantas frías, según lo indicado por el fabricante del vehículo.",
+        "Una llanta con poca presión se desgasta más, consume más combustible y puede reventar.",
+        "El dibujo de la llanta permite evacuar el agua; si está muy gastado, aumenta el riesgo de aquaplaning.",
+        "Rota y alinea las llantas periódicamente y cámbialas cuando estén desgastadas o dañadas.",
+        "Nunca uses llantas de distintos tamaños o tipos en el mismo eje."
+      ]
+    },
+    {
+      "titulo": "Frenos, dirección y suspensión",
+      "puntos": [
+        "Un chillido metálico al frenar suele indicar pastillas gastadas.",
+        "Si el pedal se siente esponjoso o va al fondo, puede haber aire o fuga en el sistema: no manejes hasta revisarlo.",
+        "Si el volante vibra o el vehículo se «jala» hacia un lado, revisa la alineación, el balanceo o las llantas.",
+        "Los amortiguadores en mal estado alargan la distancia de frenado y afectan la estabilidad.",
+        "El líquido de frenos se cambia periódicamente porque absorbe humedad."
+      ]
+    },
+    {
+      "titulo": "Emergencias mecánicas comunes",
+      "puntos": [
+        "Llanta ponchada o reventón: sujeta el volante con firmeza, suelta el acelerador y frena suavemente; luego orilla el vehículo.",
+        "Falla de frenos: bombea el pedal, baja de marcha, usa el freno de mano de forma gradual y busca una zona de escape.",
+        "Sobrecalentamiento: apaga el aire acondicionado, enciende la calefacción y detente; espera a que el motor enfríe.",
+        "Motor apagado en movimiento: la dirección y los frenos se ponen más duros; orilla el vehículo con cuidado.",
+        "Si el vehículo se queda sin combustible o se avería, señaliza y pide asistencia."
+      ]
+    }
+  ]
+}

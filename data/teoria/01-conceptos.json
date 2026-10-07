@@ -1,0 +1,57 @@
+{
+  "id": "conceptos",
+  "orden": 1,
+  "icono": "📚",
+  "titulo": "Marco legal y definiciones básicas",
+  "resumen": "Quién regula el tránsito, en qué ley se basa y el vocabulario que aparece en el examen.",
+  "secciones": [
+    {
+      "titulo": "Marco legal y autoridades",
+      "texto": [
+        "El tránsito en El Salvador se rige principalmente por la Ley de Transporte Terrestre, Tránsito y Seguridad Vial (LTTTSV) y su reglamentación. Esta ley regula la circulación de vehículos y peatones, la licencia de conducir, los vehículos, las infracciones y las sanciones.",
+        "Las señales y marcas viales se basan en el manual centroamericano de dispositivos uniformes para el control del tránsito, por lo que son muy similares a las de los demás países de la región."
+      ],
+      "puntos": [
+        "Viceministerio de Transporte (VMT): autoridad rectora del transporte terrestre; trámites de licencias, circulación y transporte público.",
+        "Ministerio de Obras Públicas y de Transporte (MOPT): institución de la que depende el VMT y responsable de la infraestructura vial.",
+        "Policía Nacional Civil (PNC), División de Tránsito Terrestre: vigila el cumplimiento de la ley en las calles, levanta esquelas y atiende accidentes.",
+        "Escuelas de conducción y centros de examinación autorizados: preparan y evalúan a los aspirantes a licencia."
+      ],
+      "tip": "Los nombres de instituciones y los trámites pueden cambiar. Confirma siempre en el sitio oficial del VMT."
+    },
+    {
+      "titulo": "Vocabulario que debes dominar",
+      "tabla": {
+        "cab": ["Término", "Significado"],
+        "filas": [
+          ["Vía pública", "Espacio de uso común destinado a la circulación de vehículos y peatones (calles, carreteras, avenidas, caminos)."],
+          ["Calzada", "Parte de la vía destinada a la circulación de vehículos."],
+          ["Carril", "Franja longitudinal de la calzada con ancho suficiente para que circule una fila de vehículos."],
+          ["Acera o banqueta", "Parte de la vía reservada al tránsito de peatones, a un nivel distinto o separada de la calzada."],
+          ["Hombro o acotamiento", "Franja lateral junto a la calzada, no destinada a circulación normal; sirve para emergencias."],
+          ["Intersección", "Punto donde se cruzan o se unen dos o más vías."],
+          ["Rotonda o glorieta", "Intersección de circulación giratoria, generalmente en sentido contrario a las agujas del reloj."],
+          ["Paso peatonal", "Zona de la calzada demarcada para que los peatones la crucen con preferencia."],
+          ["Isleta o refugio", "Zona elevada o marcada dentro de la vía donde el peatón puede esperar con seguridad; los vehículos no deben invadirla."],
+          ["Vía preferente", "Vía cuyos vehículos tienen prioridad de paso sobre los que llegan desde otra vía."],
+          ["Adelantamiento o rebase", "Maniobra de pasar a un vehículo que circula en el mismo sentido, ocupando temporalmente otro carril."],
+          ["Estacionar", "Dejar un vehículo detenido por más tiempo que el necesario para subir o bajar personas o carga."],
+          ["Detenerse", "Parada momentánea, por ejemplo por una señal, semáforo o para subir o bajar un pasajero."],
+          ["Conductor", "Persona que maneja o tiene control físico de un vehículo."],
+          ["Peatón", "Persona que transita a pie; incluye a quienes empujan una silla de ruedas o un coche de bebé."],
+          ["Tarjeta de circulación", "Documento que acredita que el vehículo está registrado y autorizado para circular."]
+        ]
+      }
+    },
+    {
+      "titulo": "Principios generales del conductor",
+      "puntos": [
+        "El conductor debe mantener siempre el control de su vehículo y prestar atención permanente a la conducción.",
+        "Debe respetar las señales, a las autoridades de tránsito y a los demás usuarios, en especial a los más vulnerables: peatones, ciclistas, motociclistas, niños y adultos mayores.",
+        "Quien conduce un vehículo más grande o más rápido tiene mayor responsabilidad de evitar daños.",
+        "Las indicaciones de un agente de tránsito prevalecen sobre semáforos y señales."
+      ],
+      "tip": "Orden de prioridad de las indicaciones: 1) agente de tránsito, 2) semáforo, 3) señales verticales, 4) marcas en el pavimento."
+    }
+  ]
+}

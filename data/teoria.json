@@ -1,0 +1,47 @@
+[
+  {
+    "titulo": "Señales de tránsito",
+    "contenido": [
+      "Preventivas: forma de rombo o triángulo, fondo amarillo. Advierten un peligro adelante (curvas, cruce peatonal, pendiente).",
+      "Reglamentarias: generalmente circulares con borde rojo. Indican prohibiciones u obligaciones (PARE, no estacionar, velocidad máxima).",
+      "Informativas: rectangulares, guían al conductor (destinos, distancias, servicios).",
+      "La señal de PARE es un octágono rojo: hay que detenerse por completo y ceder el paso."
+    ]
+  },
+  {
+    "titulo": "Semáforos",
+    "contenido": [
+      "Rojo: detenerse antes de la línea de parada.",
+      "Amarillo: precaución, el rojo es inminente; detenerse si se puede hacer con seguridad.",
+      "Verde: avanzar, siempre cediendo el paso a peatones y vehículos que ya están en la intersección.",
+      "Con semáforo apagado o en intermitente, se trata como intersección con señal de PARE o CEDA según el caso."
+    ]
+  },
+  {
+    "titulo": "Reglas básicas de conducción",
+    "contenido": [
+      "El cinturón de seguridad es obligatorio para todos los ocupantes.",
+      "Prohibido usar el celular con la mano mientras se conduce.",
+      "En intersecciones sin señalización, se cede el paso al vehículo de la derecha.",
+      "Rebasar solo con visibilidad, carril contrario libre y sin línea continua.",
+      "Mantener distancia de seguridad con el vehículo de adelante."
+    ]
+  },
+  {
+    "titulo": "Esquelas y sanciones",
+    "contenido": [
+      "Las infracciones se clasifican en leves, graves y muy graves.",
+      "Conducir bajo efectos de alcohol o drogas es una infracción muy grave.",
+      "Las multas y sanciones (incluida la suspensión de licencia) aumentan según la gravedad y la reincidencia.",
+      "Consulta siempre los montos vigentes en la Ley de Transporte Terrestre, Tránsito y Seguridad Vial y en el VMT."
+    ]
+  },
+  {
+    "titulo": "Documentos del conductor",
+    "contenido": [
+      "Licencia de conducir vigente y acorde al tipo de vehículo.",
+      "Tarjeta de circulación vigente del vehículo.",
+      "Documento de identidad (DUI) para identificarse ante la autoridad."
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "id": "accidentes",
+  "orden": 11,
+  "icono": "🚑",
+  "titulo": "Accidentes y primeros auxilios",
+  "resumen": "Qué hacer en el lugar de un accidente, cómo señalizar y qué maniobras básicas de auxilio conocer.",
+  "secciones": [
+    {
+      "titulo": "Conducta PAS: Proteger, Avisar, Socorrer",
+      "puntos": [
+        "Proteger: detén tu vehículo en un lugar seguro, enciende las luces de emergencia, colócate un chaleco reflectivo si tienes, y coloca los triángulos reflectivos para advertir a los demás conductores.",
+        "Avisar: llama al número de emergencias 911 e informa el lugar exacto, el número de heridos y la situación. También se avisa a la Policía.",
+        "Socorrer: atiende a las víctimas, sin ponerte en peligro y sin hacer maniobras que no conoces."
+      ],
+      "tip": "El orden importa: primero se asegura el lugar, luego se pide ayuda y después se atiende a los heridos."
+    },
+    {
+      "titulo": "Señalización de emergencia",
+      "puntos": [
+        "Los triángulos reflectivos se colocan detrás del vehículo, a una distancia suficiente para dar aviso a tiempo (mayor distancia en carretera y en curvas).",
+        "Si el accidente ocurre en una curva o cima, coloca el triángulo antes de ella para que sea visible.",
+        "Apaga el motor y, si hay riesgo de incendio, aléjate del vehículo.",
+        "No fumes ni uses fuego cerca del lugar del accidente."
+      ]
+    },
+    {
+      "titulo": "Primeros auxilios básicos",
+      "puntos": [
+        "No muevas a un herido, salvo que exista peligro inmediato (incendio o riesgo de otro choque): podrías agravar una lesión en la columna.",
+        "No le quites el casco a un motociclista herido, a menos que sea indispensable para respirar y sepas hacerlo.",
+        "No le des líquidos ni comida a un herido.",
+        "Hemorragia: presiona directamente sobre la herida con un paño limpio y mantén la presión.",
+        "Si la persona no responde y no respira con normalidad, pide ayuda y comienza compresiones torácicas al centro del pecho, de forma firme y rápida, hasta que llegue la ayuda.",
+        "Mantén a la víctima abrigada, tranquila y consciente hasta que llegue el personal de emergencia.",
+        "Quemaduras: enfría la zona con agua a temperatura ambiente; no apliques cremas, aceite ni hielo."
+      ]
+    },
+    {
+      "titulo": "Obligaciones tras un accidente",
+      "puntos": [
+        "No abandonar el lugar del accidente: huir es una falta grave y puede ser delito.",
+        "Prestar ayuda a las víctimas dentro de tus posibilidades.",
+        "Dar aviso a las autoridades y esperar su llegada cuando haya lesionados, daños importantes o desacuerdo entre los involucrados.",
+        "Identificarte e intercambiar datos con los otros conductores: nombre, licencia, tarjeta de circulación y datos de contacto.",
+        "No alterar la escena hasta que la autoridad lo indique, salvo que sea necesario para evitar otro accidente o para atender a heridos.",
+        "Anota o toma fotografías de la escena, de las placas y de los daños, y busca testigos."
+      ]
+    },
+    {
+      "titulo": "Incendio del vehículo",
+      "puntos": [
+        "Detén el vehículo, apaga el motor, sal y aléjate de inmediato con todos los ocupantes.",
+        "Llama a los bomberos.",
+        "Solo intenta usar el extintor si el fuego es pequeño y no corres peligro."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Examen Teórico de Manejo · El Salvador</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>🚦 Examen Teórico de Manejo</h1>
+    <p>Prepárate para la escuela examinadora y el VMT · El Salvador</p>
+  </header>
+
+  <main id="app">
+    <!-- MENÚ PRINCIPAL -->
+    <section id="menu" class="vista activa">
+      <div class="menu-botones">
+        <button id="btn-estudio" class="btn-grande">
+          <span class="icono">📖</span>
+          <strong>Modo Estudio</strong>
+          <small id="info-estudio">Teoría completa por módulos</small>
+        </button>
+        <button id="btn-simulador" class="btn-grande primario">
+          <span class="icono">📝</span>
+          <strong>Simulador de Examen</strong>
+          <small id="info-simulador">Preguntas aleatorias con retroalimentación</small>
+        </button>
+      </div>
+      <div id="estadisticas" class="tarjeta stats oculto"></div>
+    </section>
+
+    <!-- MODO ESTUDIO: ÍNDICE -->
+    <section id="estudio" class="vista">
+      <button class="volver" data-volver>← Menú principal</button>
+      <h2>Modo Estudio</h2>
+      <input id="buscador" class="buscador" type="search" placeholder="Buscar en la teoría (ej. semáforo, casco, PARE)..." />
+      <div id="progreso-estudio" class="nota"></div>
+      <div id="indice-modulos" class="grid-modulos"></div>
+      <div id="resultados-busqueda"></div>
+    </section>
+
+    <!-- MODO ESTUDIO: MÓDULO -->
+    <section id="modulo" class="vista">
+      <button class="volver" id="volver-indice">← Todos los módulos</button>
+      <div id="contenido-modulo"></div>
+      <div class="acciones nav-modulo">
+        <button id="mod-anterior" class="btn">← Anterior</button>
+        <button id="mod-practicar" class="btn">Practicar este tema</button>
+        <button id="mod-siguiente" class="btn primario">Siguiente →</button>
+      </div>
+    </section>
+
+    <!-- CONFIGURACIÓN DEL SIMULADOR -->
+    <section id="config" class="vista">
+      <button class="volver" data-volver>← Menú principal</button>
+      <h2>Simulador de Examen</h2>
+      <div class="tarjeta">
+        <label>Tipo de examen</label>
+        <div id="modos" class="modos"></div>
+
+        <div id="fila-tema" class="oculto">
+          <label for="tema">Tema</label>
+          <select id="tema"></select>
+        </div>
+
+        <div class="opciones-config">
+          <label class="check"><input type="checkbox" id="chk-feedback" checked /> Mostrar si acerté después de cada pregunta</label>
+          <label class="check"><input type="checkbox" id="chk-tiempo" checked /> Usar temporizador</label>
+        </div>
+        <p class="nota" id="resumen-config"></p>
+        <button id="btn-iniciar" class="btn primario">Comenzar examen</button>
+      </div>
+    </section>
+
+    <!-- EXAMEN -->
+    <section id="examen" class="vista">
+      <div class="cabecera-examen">
+        <span id="contador" class="contador"></span>
+        <span id="reloj" class="reloj oculto"></span>
+      </div>
+      <div class="progreso"><div id="barra"></div></div>
+      <div class="tarjeta">
+        <span id="etiqueta-tema" class="etiqueta"></span>
+        <h3 id="pregunta"></h3>
+        <div id="opciones" class="opciones"></div>
+        <div id="feedback" class="feedback oculto"></div>
+        <div class="acciones-examen">
+          <button id="btn-abandonar" class="btn">Abandonar</button>
+          <button id="btn-siguiente" class="btn primario oculto">Siguiente</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- RESULTADOS -->
+    <section id="resultados" class="vista">
+      <h2>Resultados</h2>
+      <div class="tarjeta centro">
+        <div id="puntaje" class="puntaje"></div>
+        <p id="veredicto" class="veredicto"></p>
+        <p id="tiempo-usado" class="nota"></p>
+      </div>
+      <h3>Desempeño por tema</h3>
+      <div id="por-tema" class="tarjeta"></div>
+      <h3>Revisión de preguntas</h3>
+      <div class="filtros">
+        <button class="btn chico activo" data-filtro="todas">Todas</button>
+        <button class="btn chico" data-filtro="mal">Solo falladas</button>
+      </div>
+      <div id="detalle"></div>
+      <div class="acciones">
+        <button id="btn-reintentar" class="btn primario">Nuevo examen</button>
+        <button id="btn-repasar" class="btn">Repasar teoría</button>
+        <button class="btn" data-volver>Menú principal</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="pie">
+    Material de práctica elaborado como apoyo de estudio. El formato, la cantidad de preguntas y el puntaje mínimo oficiales pueden variar. Confirma siempre con la Ley de Transporte Terrestre, Tránsito y Seguridad Vial y el manual oficial del VMT.
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

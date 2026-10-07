@@ -1,0 +1,84 @@
+{
+  "id": "circulacion",
+  "orden": 5,
+  "icono": "🚗",
+  "titulo": "Reglas de circulación",
+  "resumen": "Preferencia de paso, adelantamientos, giros, luces, estacionamiento y situaciones especiales.",
+  "secciones": [
+    {
+      "titulo": "Preferencia de paso",
+      "puntos": [
+        "Los peatones tienen preferencia en los pasos peatonales y al doblar en una esquina cuando cruzan la calle transversal.",
+        "Los vehículos de emergencia (ambulancia, bomberos, policía) con sirena y luces tienen paso preferente: hazte a la derecha y detente.",
+        "En una intersección sin señales, cede el paso al vehículo que se aproxima por tu derecha.",
+        "En una vía preferente, los vehículos de la vía secundaria deben ceder el paso.",
+        "En una rotonda tiene preferencia el vehículo que ya circula dentro de ella, salvo que una señal indique lo contrario.",
+        "Al incorporarte a una vía desde un estacionamiento, cochera o camino de tierra, cede el paso a quienes ya circulan.",
+        "Al girar a la izquierda, cede el paso a los vehículos que vienen de frente y a los peatones que cruzan."
+      ],
+      "tip": "Ante la duda, cede el paso. Es más barato perder unos segundos que provocar un choque."
+    },
+    {
+      "titulo": "Adelantamiento o rebase",
+      "puntos": [
+        "Se adelanta por la izquierda, salvo cuando el vehículo de adelante va a girar a la izquierda o en vías con varios carriles.",
+        "Antes de adelantar: comprueba visibilidad, carril contrario libre, distancia suficiente y que nadie te esté adelantando a ti.",
+        "Avisa con la luz direccional y, si es necesario, con un breve aviso de luces o bocina, y vuelve a tu carril sin cerrar al vehículo adelantado.",
+        "Está prohibido adelantar en curvas, cimas de cuestas, puentes y túneles, intersecciones, pasos peatonales, pasos a nivel y donde exista línea continua.",
+        "Si te van a adelantar, no aumentes la velocidad y facilita la maniobra manteniéndote a tu derecha.",
+        "No adelantes a un vehículo que se ha detenido en un paso peatonal para dejar cruzar a alguien."
+      ]
+    },
+    {
+      "titulo": "Giros, retornos y marcha atrás",
+      "puntos": [
+        "Señaliza con la luz direccional con suficiente anticipación y ubícate en el carril correcto antes de girar.",
+        "Gira siempre a velocidad baja y cediendo el paso a quien corresponda.",
+        "El retorno solo se hace donde esté permitido y con visibilidad; nunca en curvas, puentes, cuestas ni intersecciones con señal que lo prohíba.",
+        "La marcha atrás se hace solo por el tiempo y la distancia estrictamente necesarios, con visibilidad completa y sin estorbar; está prohibida en autopistas y en intersecciones.",
+        "Antes de abrir la puerta al estacionar, mira por el retrovisor para no golpear a ciclistas o motociclistas."
+      ]
+    },
+    {
+      "titulo": "Distancia de seguridad y posición en la vía",
+      "puntos": [
+        "Mantén una separación con el vehículo de adelante que te permita frenar sin chocar. Un método práctico es la regla de los dos o tres segundos: cuenta desde que el auto de adelante pasa por un punto fijo y no llegues a ese punto antes.",
+        "Con lluvia, de noche o en carretera resbalosa, duplica esa distancia.",
+        "Circula por el carril de la derecha y usa el izquierdo para adelantar.",
+        "No circules sobre líneas divisorias ni cambies de carril de forma brusca.",
+        "En pendientes, los vehículos que suben tienen prioridad cuando la vía es muy angosta y no se pueden cruzar."
+      ]
+    },
+    {
+      "titulo": "Luces, bocina y señales del vehículo",
+      "puntos": [
+        "Luces bajas: de noche en zona urbana, con lluvia, niebla o al cruzarse con otro vehículo.",
+        "Luces altas: solo en carretera oscura y sin vehículos de frente ni delante. Cámbialas a bajas al cruzarte con alguien o al seguir a otro vehículo.",
+        "Luces de emergencia (intermitentes): para avisar de una avería, un accidente o un peligro; no para «reservar» un estacionamiento.",
+        "Luces de freno y de marcha atrás deben funcionar siempre.",
+        "La bocina se usa solo para prevenir un peligro; su uso innecesario o el escape ruidoso está prohibido.",
+        "Las luces de neblina se usan solo con niebla o lluvia intensa."
+      ]
+    },
+    {
+      "titulo": "Estacionamiento y detención",
+      "puntos": [
+        "No se debe estacionar en pasos peatonales, esquinas o intersecciones, frente a hidrantes, rampas para personas con discapacidad, salidas de cochera, paradas de buses, curvas, puentes, túneles ni donde una señal lo prohíba.",
+        "Tampoco en doble fila, sobre las aceras o en la calzada de vías rápidas.",
+        "Estaciona a favor del sentido de la circulación y a una distancia corta del borde de la acera.",
+        "Al dejar el vehículo, aplica el freno de mano, apaga el motor y, en pendiente, gira las ruedas hacia el borde.",
+        "Los espacios reservados para personas con discapacidad solo pueden ser usados por vehículos autorizados."
+      ]
+    },
+    {
+      "titulo": "Situaciones especiales",
+      "puntos": [
+        "Paso a nivel del ferrocarril: reduce, mira a ambos lados y no cruces si viene el tren, si las barreras bajan o si no hay espacio para salir del otro lado. Nunca te detengas sobre las vías.",
+        "Buses escolares o de transporte de personas detenidos: extrema la precaución porque pueden bajar personas, especialmente niños.",
+        "Vehículos de carga: respeta las restricciones de horario y de circulación por zonas y mantén una distancia mayor.",
+        "Vehículo averiado: señaliza con luces de emergencia y triángulos reflectivos; no bloquees el carril si puedes retirarlo con seguridad.",
+        "Cortejos, marchas o procesiones autorizadas: respeta las indicaciones de las autoridades."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "sanciones",
+  "orden": 10,
+  "icono": "📝",
+  "titulo": "Infracciones, esquelas y sanciones",
+  "resumen": "Cómo se clasifican las infracciones, qué sanciones existen y qué hacer al recibir una esquela.",
+  "secciones": [
+    {
+      "titulo": "Clasificación de las infracciones",
+      "texto": [
+        "La ley clasifica las infracciones de tránsito en tres categorías según su gravedad: leves, graves y muy graves. A mayor gravedad, mayor es la multa y más severas son las sanciones accesorias.",
+        "La esquela (o boleta de infracción) es el documento con el que la autoridad hace constar la infracción cometida."
+      ],
+      "tabla": {
+        "cab": ["Categoría", "Idea general"],
+        "filas": [
+          ["Leves", "Faltas de menor riesgo, como algunos errores de estacionamiento o de documentación."],
+          ["Graves", "Conductas que ponen en riesgo a otras personas, como no respetar señales o cometer maniobras peligrosas."],
+          ["Muy graves", "Las conductas de mayor peligro, como conducir bajo efectos del alcohol o drogas o poner en grave riesgo la vida de otros."]
+        ]
+      },
+      "tip": "Los montos de las multas y la lista exacta de qué infracción es leve, grave o muy grave se han reformado varias veces. Revisa el texto vigente de la ley y el tarifario del VMT."
+    },
+    {
+      "titulo": "Sanciones posibles",
+      "puntos": [
+        "Multa económica, cuyo valor depende de la categoría de la infracción.",
+        "Retención o suspensión temporal de la licencia de conducir.",
+        "Cancelación de la licencia en casos graves o de reincidencia.",
+        "Retiro del vehículo de circulación (remisión al depósito) cuando el vehículo no cumple con las condiciones o el conductor no es apto.",
+        "Cursos obligatorios de educación vial en algunos casos.",
+        "Responsabilidad civil y penal si hay lesiones, muerte o daños a terceros."
+      ]
+    },
+    {
+      "titulo": "Conductas que suelen sancionarse con más severidad",
+      "puntos": [
+        "Conducir bajo la influencia del alcohol o de drogas.",
+        "Negarse a practicarse la prueba de alcoholemia.",
+        "Irrespetar la luz roja del semáforo o la señal de PARE.",
+        "Conducir sin licencia o con licencia que no corresponde al vehículo.",
+        "Circular en sentido contrario o adelantar en lugares prohibidos.",
+        "Manejar a exceso de velocidad o de forma temeraria.",
+        "Huir del lugar de un accidente."
+      ]
+    },
+    {
+      "titulo": "Si te entregan una esquela",
+      "puntos": [
+        "Mantén la calma y trata al agente con respeto; identifícate y entrégale los documentos que te solicite.",
+        "Lee la esquela: verifica tus datos, el lugar, la fecha, la hora y la infracción anotada. Firma solo si estás de acuerdo o hazlo constar si tienes reparos.",
+        "Paga la multa en el plazo y los lugares autorizados. El retraso puede generar recargos y otras consecuencias.",
+        "Si consideras que la esquela es injusta, puedes hacer uso del procedimiento de impugnación previsto en la ley dentro del plazo legal.",
+        "Nunca ofrezcas dinero a un agente: el soborno es un delito para ambas partes."
+      ]
+    },
+    {
+      "titulo": "Responsabilidad en caso de accidente",
+      "puntos": [
+        "El conductor es responsable de los daños que cause por incumplir las normas de tránsito.",
+        "Huir del lugar del accidente agrava la responsabilidad.",
+        "Las lesiones u homicidios culposos causados por conducción imprudente pueden constituir delitos.",
+        "Conducir bajo efectos del alcohol funciona como un agravante en la responsabilidad."
+      ]
+    }
+  ]
+}
